@@ -7,4 +7,5 @@ To see my process of level designing this map look thourgh the journal of this p
 2. [playtest iteration](playtest-iteration.md)
 3. [textures and lighting](textures-and-lighting.md)
 4. [Immersion and theme](immersion-and-theme.md)
+5. [Guidance and orientation](guidance-and-orientation.md)
  
